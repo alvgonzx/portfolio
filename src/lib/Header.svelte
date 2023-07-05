@@ -1,6 +1,6 @@
 <script>
     import { onMount } from "svelte";
-    import { initMenu } from "../assets/js/menu";
+    import { initMenu } from "/public/menu";
 
     onMount(() => {
         initMenu();
