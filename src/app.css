@@ -6,3 +6,13 @@
     box-shadow:  24px 24px 48px #d9d9d9,
                 -24px -24px 48px #d9d9d9;
 }
+
+#about-me {
+    padding-top: 100px;
+    margin-top: -100px;
+}
+
+#projects {
+    padding-top: 180px;
+    margin-top: -130px;
+}
