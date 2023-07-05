@@ -4,6 +4,7 @@
     import AboutMe from "../lib/about-me/AboutMe.svelte";
     import Projects from "../lib/projects/Projects.svelte";
     import Footer from "../lib/Footer.svelte";
+
     </script>
     
     <main>
