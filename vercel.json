@@ -1,6 +1,0 @@
-{
-    "rewrites": [
-      {"source": "/", "destination": "https://alvgonzx.vercel.app/"},
-      {"source": "/blog*", "destination": "https://alvgonzx.vercel.app/blog/"}
-    ]
-  }
