@@ -1,9 +1,9 @@
 <script>
-	import Header from '../lib/Header.svelte';
-	import Hero from '../lib/hero/Hero.svelte';
-	import AboutMe from '../lib/about-me/AboutMe.svelte';
-	import Projects from '../lib/projects/Projects.svelte';
-	import Footer from '../lib/Footer.svelte';
+	import Header from '../lib/components/Header.svelte';
+	import Hero from '../lib/components/hero/Hero.svelte';
+	import AboutMe from '../lib/components/about-me/AboutMe.svelte';
+	import Projects from '../lib/components/projects/Projects.svelte';
+	import Footer from '../lib/components/Footer.svelte';
 </script>
 
 <main>
